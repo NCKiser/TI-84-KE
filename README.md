@@ -4,7 +4,7 @@ In this repo are the files and instructions associated with the TI-84 KE as disc
 https://www.cemetech.net/forum/viewtopic.php?p=289588
 
 
-##Parts Included:
+## Parts Included:
 
 PCB
 52x Keycaps
@@ -16,11 +16,16 @@ Stainless Steel Plate
 Ribbon Cable Wire
 
 
-##You Will Need:
+## You Will Need:
 
 Sacrificial TI-84 CE (Instructions written based on Rev.N, non-Python)
-
+Soldering Iron and Solder
+Isopropal Alcohol & Q-tips
+T5 and T6 Torx Drivers
+Hot Glue
+Razor/Knife
+Patience
 
 
 Assembly Instructions:
-
+WIP
