@@ -13,7 +13,7 @@ https://www.cemetech.net/forum/viewtopic.php?p=289588
 * 10x M3 Bolts
 * 2x Ribbon Cable Extenders
 * Ribbon Cable Wire
-
+* 4x Rubber Feet
 
 ## You Will Need:
 * Sacrificial TI-84 CE (Instructions written based on Rev.N, non-Python)
@@ -92,6 +92,7 @@ Press the switch 3rd from the left on the bottom row. This should turn the calcu
 If your calculator turns on but is unresponsive, then there probably is a short across a keypad contact, caused a key to be "pressed" constantly. Check all pads on the motherboard and switches/wires on the PCB for shorts.\
 Launch your switch tester program and make sure that all of the switches work and are recognized by the calculator.\
 If certain groups of switches are not responsive, check the wiring and soldering of the wires going from the PCB to the motherboard. There cold be a disconnect or a short.\
+Test the reset buttom to make sure the calculator resets its ram.
 
 #### Once all the switches work as intended, turn off the calculator and remove the battery, and unplug the screen from the ribbon cable extender.
 
@@ -102,4 +103,8 @@ Secure the swtichplate to the base by screwing in the 10 M3 bolts. To not overti
 Fish the ribbon cable extension out form the case through the opening for the screen. Connect the screen to the ribbon cable extendor's ZIF connector.
 Place the screen into the back of the 3D printed screen bezel. Using the plastic pieces provided, clip the screen into place. You may want to secure the plastic clips with a bit of hotglue. See this picture for reference:\
 (INSERT SCREEN BEZEL ASSEMBLY PICTURE)\
-Being careful with the way that the ribbon cable folds/lays, snapo the screen bezel into the steel place. Start by slotting it into the top edge, then pressing down firmly around the edges.
+Being careful with the way that the ribbon cable folds/lays, snapo the screen bezel into the steel place. Start by slotting the bezel into the top edge of the hole, then pressing down firmly around the edges. The flange around the bezel should sit flush with the steel plate.
+Turning the KE over, insert the battery and put into place the battery cover. It should be a tight fit for the battery cover. Using a medium pressure, screw the battery cover into the back of the base, making sure to not overtighten or strip the plastic.
+If desired, adhere the rubber feet into the 4 corners on the bottom.
+
+## Now, flip it over, turn it on, and enjoy your TI-84 KE1
