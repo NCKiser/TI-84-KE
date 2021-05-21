@@ -107,4 +107,4 @@ Being careful with the way that the ribbon cable folds/lays, snapo the screen be
 Turning the KE over, insert the battery and put into place the battery cover. It should be a tight fit for the battery cover. Using a medium pressure, screw the battery cover into the back of the base, making sure to not overtighten or strip the plastic.\
 If desired, adhere the rubber feet into the 4 corners on the bottom.
 
-## Now, flip it over, turn it on, and enjoy your TI-84 KE1
+## Now, flip it over, turn it on, and enjoy your TI-84 KE!
