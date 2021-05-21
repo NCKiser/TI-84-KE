@@ -46,6 +46,8 @@ If the EMI shielding is still in place, it should be removable now.\
 Remove the motherboard and screen from the front case. The buttons and keypad membrane will be loose in the front case, be careful not to make too big of a mess.\
 Using moderate pressure from the inside, push the clear screen cover out from the front case. There is adhesive holding this cover in place, but consistent pressure should release it slowly.
 
+### Disassembly Checklist
+
 #### After dissasembly, you should be left with these parts:
 * Battery
 * Battery Cover
@@ -53,6 +55,8 @@ Using moderate pressure from the inside, push the clear screen cover out from th
 * Screen
 * Screen Cover
 * 6x T6 screws
+
+### Switchplate Assembly
 
 #### Next, Assemble the switch/PCB/plate stack:
 
@@ -69,6 +73,8 @@ If your switches support LEDs from the top, and you want LEDs, push the LED legs
 
 #### After this, you should have a complete plate/PCB/switch assembly, with LEDs optionally installed.
 
+### Soldering All the Wires
+
 #### Now we will combine the base, PCB, and motherboard:
 
 With the motherboard component-side-up, solder the reset switch wires from the base to the motherboard.\
@@ -83,6 +89,8 @@ Solder wires from the PCB at points labebled A-H to the motherboard as pictured 
 Solder wires from the points labeled 1-7 to the motherboard as pictured below as well.\
 (INSERT WIRING PICTURES HERE)
 
+### Testing Functionality
+
 #### At this point, the keyboard should be functioning. Let's test it now:
 
 Lift the base and slot the battery into place from the bottom, ensuring it is making good electrical contact.\
@@ -96,7 +104,7 @@ Test the reset buttom to make sure the calculator resets its ram.
 
 #### Once all the switches work as intended, turn off the calculator and remove the battery, and unplug the screen from the ribbon cable extender.
 
-#### Final Assembly:
+### Final Assembly:
 
 While folding all of the wiring neatly, lay the switchplate assembly on top of the base. The steel plate should lay flush against the top of the base without needing to apply too much pressure. Rearrange the wiring until that happens.\
 Secure the swtichplate to the base by screwing in the 10 M3 bolts. To not overtighten, as you risk stripping the plastic that the base is made of. If you do strip the plastic, you can purchase M3 threaded inserts, drill the hole a little larger, and melt the inserts into place in the base.\
