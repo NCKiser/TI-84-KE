@@ -16,10 +16,11 @@ Ribbon Cable Wire
 
 
 ## You Will Need:
-Sacrificial TI-84 CE (Instructions written based on Rev.N, non-Python)/
+Sacrificial TI-84 CE (Instructions written based on Rev.N, non-Python)\
 Soldering Iron and Solder\
 Isopropal Alcohol & Q-tips\
 T5 and T6 Torx Drivers\
+### Optional:
 Hot Glue\
 Razor/Knife\
 Patience
