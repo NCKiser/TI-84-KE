@@ -103,8 +103,8 @@ Secure the swtichplate to the base by screwing in the 10 M3 bolts. To not overti
 Fish the ribbon cable extension out form the case through the opening for the screen. Connect the screen to the ribbon cable extendor's ZIF connector.
 Place the screen into the back of the 3D printed screen bezel. Using the plastic pieces provided, clip the screen into place. You may want to secure the plastic clips with a bit of hotglue. See this picture for reference:\
 (INSERT SCREEN BEZEL ASSEMBLY PICTURE)\
-Being careful with the way that the ribbon cable folds/lays, snapo the screen bezel into the steel place. Start by slotting the bezel into the top edge of the hole, then pressing down firmly around the edges. The flange around the bezel should sit flush with the steel plate.
-Turning the KE over, insert the battery and put into place the battery cover. It should be a tight fit for the battery cover. Using a medium pressure, screw the battery cover into the back of the base, making sure to not overtighten or strip the plastic.
+Being careful with the way that the ribbon cable folds/lays, snapo the screen bezel into the steel place. Start by slotting the bezel into the top edge of the hole, then pressing down firmly around the edges. The flange around the bezel should sit flush with the steel plate.\
+Turning the KE over, insert the battery and put into place the battery cover. It should be a tight fit for the battery cover. Using a medium pressure, screw the battery cover into the back of the base, making sure to not overtighten or strip the plastic.\
 If desired, adhere the rubber feet into the 4 corners on the bottom.
 
 ## Now, flip it over, turn it on, and enjoy your TI-84 KE1
