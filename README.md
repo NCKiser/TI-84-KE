@@ -63,13 +63,15 @@ Using moderate pressure from the inside, push the clear screen cover out from th
 Unscrew the steel plate from the base. Use a T5 driver to remove the 10 M3 bolts. Do not loose these bolts. Inside you will find the PCB.\
 If the switches you chose support LEDs from the bottom, and you want LEDs, solder the LEDs onto the PCB now, making sure of the orientation (long leg of the LED goes to the '+' sign on the PCB).\
 Take 6 of your keyswitches and snap them into the steel plate at the locations pictured below (At all the "corner" locations). The pins on the bottom of the switches should be facing towards the bottom (long) edge of the plate.\
-(INSERT IMAGE HERE)\
+![Switch flush with plate](https://github.com/NCKiser/TI-84-KE/raw/main/Images/1221201021_HDR.jpg)
+![Switches clipped into corners](https://github.com/NCKiser/TI-84-KE/raw/main/Images/1221201026_HDR%20-%20Copy.jpg)
 Line the PCB up with the switch pins. If your switches are PCB-mount (5-pin), press the switches into the PCB until they sit flush. This may take more force than you expect. The pins of the switches should line up with the soplderable holes on the PCB.\
 With the plate/PCB/switch assemble laying face-down, ensure that the PCB is pushed or laying flush against the bottom of the switches. If you have LEDs installed, make sure they are aligned correctly.\
 Solder these first 6 switches into place.\
 Turning the PCB bakc face-up, insert the rest of the switches into place. Ensure that the pins on the switches are straight before attempting to put them in. There will be a distinct snap when the switch locks into the plate. If you have 5-pin switches, you may need to apply pressure from the PCB and squeeze the switch into place. Ensure that the switch bottoms are flush with the PCB, and that no switch sticks up highter than others.\
 Solder the rest of the switches in place. There are 2 solderpoints per switch. If you notice one of the switch pins got bent while inserting, you can remove the switch before soldering, straighten the pins, and insert again.\
 If your switches support LEDs from the top, and you want LEDs, push the LED legs through the switches and solder them now. Ensure they are and flush and "pushed down" as possible while soldering, as to avoid them interefering with the keycaps.
+![Complete switchplate assembly](https://github.com/NCKiser/TI-84-KE/raw/main/Images/1221201043a_HDR.jpg)
 
 #### After this, you should have a complete plate/PCB/switch assembly, with LEDs optionally installed.
 
