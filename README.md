@@ -21,7 +21,7 @@ https://www.cemetech.net/forum/viewtopic.php?p=289588
 * 52x MX-compatible keyswitches of your choice
 * Soldering Iron and Solder
 * Isopropal Alcohol & Q-tips
-* T5 and T6 Torx Drivers
+* T8 and T6 Torx Drivers
 ### Optional:
 * Hot Glue
 * Razor/Knife
@@ -35,7 +35,7 @@ https://www.cemetech.net/forum/viewtopic.php?p=289588
 #### Start off by disassembling you TI-84 CE:
 
 Unscrew the battery cover and remove the battery. place the battery and battery cover to the side for future use.\
-Unscrew the 6 screws around the rear poerimeter opf the calculator. Do not lose these screws. Keeps these screws for later use. On some models, there will also be screws under the battery, remove these as well.\
+Unscrew the 6 screws around the rear poerimeter of the calculator. Do not lose these screws. Keeps these screws for later use. On some models, there will also be screws under the battery, remove these as well.\
 At this point, there should be no screw visible from the outside.\
 Using an old hotel keycard or other thin plastic shim, pry the front and back halves of the calculator apart. Start from the bottom and work your way around the left (ON and Y= side), around the top of the screen, and then down towards the USB port on the right side. Angling your shim towards the front of the calculator may help.\
 There will be a series of loud pops as you run your shim around the calculator. This is normal.\
