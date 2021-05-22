@@ -3,6 +3,7 @@ In this repo are the files and instructions associated with the TI-84 KE as disc
 
 https://www.cemetech.net/forum/viewtopic.php?p=289588
 
+![Cover Image](https://github.com/NCKiser/TI-84-KE/raw/main/Images/0211211338a_HDR.jpg)
 
 ## Parts Included:
 * PCB
@@ -79,17 +80,25 @@ If your switches support LEDs from the top, and you want LEDs, push the LED legs
 
 #### Now we will combine the base, PCB, and motherboard:
 
-With the motherboard component-side-up, solder the reset switch wires from the base to the motherboard.\
+Lay the switchplate facedown at the bottom of the base, oriented as if you took the top off the base and "unfolded" the switchplate from the top.\
+With the motherboard component-side-up, solder the reset switch wires from the base to the motherboard< one wire nto the testpoint near the reset switch< and one wire to ground (there is a ground testpoint near the bottom).\
+If you are usign LEDs, solder a wire from the battery testpoint to the PCB, and 5 wires from the PCB to the blue daughterboard that is located in the base, as pictured below:\
+![Reset and Vbatt wiring](https://github.com/NCKiser/TI-84-KE/raw/main/Images/0208212132_HDR.jpg)
+![Blue Daughterboard Wiring](https://github.com/NCKiser/TI-84-KE/raw/main/Images/0207212208b_HDR.jpg)
 Insert the ribbon cable extension into the ZIF connector on the motherboard.\
-If you are usign LEDs, solder wires from the battery testpoint to the PCB, and 5 wires from the PCB to the blue daughterboard that is located in the base, as pictured below:\
-(INSERT DAUGHTERBOARD WIRING HERE)\
 Flipping the motherboard so the keypad contacts are facing up, line the USB port with the hole in the back of the case. The reset switch wires should fold and tuck under the motherboard without crossing into the battery area.\
 Use 4 of the T6 screws from the calculator's case to screw the motherboard into the plastic standoffs in the bottom of the base.\
 At this point, the motherboard should be screwed onto the base (keypad-side-up), the USB port should be lined up with the hole in the case, the screen extension cable should be connectd to the motherboard and laying across the base, and the reset switch wires should be soldered top the bottom of the motherboard.\
-Lay the switchplate facedown at the bottom of the base, oriented as if you took the top off the base and "unfolded" the switchplate from the top.
-Solder wires from the PCB at points labebled A-H to the motherboard as pictured below, according to the wiring diagram below.
+Solder 2 wires fron ON1 and ON2 on the PCB to the two on-button testpionts that aren't ground.\
+If using LEDs, solder a wire from Ground on the PCB to the testpoint near the on-button that is ground.\
+![on-button and ground wiring](https://github.com/NCKiser/TI-84-KE/raw/main/Images/0208212135_HDR.jpg)
+Solder wires from the PCB at points labebled A-H to the motherboard as pictured below, according to the wiring diagram below.\
+![A-H wiring](https://github.com/NCKiser/TI-84-KE/raw/main/Images/0208212150_HDR.jpg)
 Solder wires from the points labeled 1-7 to the motherboard as pictured below as well.\
-(INSERT WIRING PICTURES HERE)
+![1-7 wiring](https://github.com/NCKiser/TI-84-KE/raw/main/Images/0208212159a_HDR.jpg)
+![Motherboard Layout 1](https://github.com/NCKiser/TI-84-KE/raw/main/Images/Wiring1.jpg)
+![Motherboard Layout 2](https://github.com/NCKiser/TI-84-KE/raw/main/Images/Wiring2.jpg)
+
 
 ### Testing Functionality
 
@@ -100,6 +109,7 @@ Gingerly connect the screen to the end of the ribbon cable extension\
 If you are using LEDs, press the 4th switch from the left onm the bottom row. This should toggle the LEDs on and off.\
 Press the switch 3rd from the left on the bottom row. This should turn the calculator on.\
 If your calculator turns on but is unresponsive, then there probably is a short across a keypad contact, caused a key to be "pressed" constantly. Check all pads on the motherboard and switches/wires on the PCB for shorts.\
+![Testing it out](https://github.com/NCKiser/TI-84-KE/raw/main/Images/0208212219_Burst03.jpg)
 Launch your switch tester program and make sure that all of the switches work and are recognized by the calculator.\
 If certain groups of switches are not responsive, check the wiring and soldering of the wires going from the PCB to the motherboard. There cold be a disconnect or a short.\
 Test the reset buttom to make sure the calculator resets its ram.
@@ -112,9 +122,16 @@ While folding all of the wiring neatly, lay the switchplate assembly on top of t
 Secure the swtichplate to the base by screwing in the 10 M3 bolts. To not overtighten, as you risk stripping the plastic that the base is made of. If you do strip the plastic, you can purchase M3 threaded inserts, drill the hole a little larger, and melt the inserts into place in the base.\
 Fish the ribbon cable extension out form the case through the opening for the screen. Connect the screen to the ribbon cable extendor's ZIF connector.
 Place the screen into the back of the 3D printed screen bezel. Using the plastic pieces provided, clip the screen into place. You may want to secure the plastic clips with a bit of hotglue. See this picture for reference:\
-(INSERT SCREEN BEZEL ASSEMBLY PICTURE)\
-Being careful with the way that the ribbon cable folds/lays, snapo the screen bezel into the steel place. Start by slotting the bezel into the top edge of the hole, then pressing down firmly around the edges. The flange around the bezel should sit flush with the steel plate.\
+![Screen Bezel](https://github.com/NCKiser/TI-84-KE/raw/main/Images/0522211032_HDR.jpg)
+Being careful with the way that the ribbon cable folds/lays, snap the screen bezel into the steel place. Start by slotting the bezel into the bottom edge of the hole, then pressing down firmly around the edges. The flange around the bezel should sit flush with the steel plate.\
+![Lining up the Bezel](https://github.com/NCKiser/TI-84-KE/raw/main/Images/0522211034_HDR.jpg)
+Use a small strip of double-sided tape, hotglue, or whatever you want, to adhere the screen cove that you salvaged from your CE into the recess on the front of the bezel.\
 Turning the KE over, insert the battery and put into place the battery cover. It should be a tight fit for the battery cover. Using a medium pressure, screw the battery cover into the back of the base, making sure to not overtighten or strip the plastic.\
 If desired, adhere the rubber feet into the 4 corners on the bottom.
 
-## Now, flip it over, turn it on, and enjoy your TI-84 KE!
+![Key Layout](https://github.com/NCKiser/TI-84-KE/raw/main/FinalLayoutV1Color.PNG)
+
+## Now, flip it over, put on the keycaps, turn it on, and enjoy your TI-84 KE!
+
+![Lights on Cover Image](https://github.com/NCKiser/TI-84-KE/raw/main/Images/0211211338b_HDR.jpg)
+
